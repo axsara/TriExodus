@@ -1,0 +1,6 @@
+/TriExodus.js
+  Content-Type: application/javascript
+/TriExodus.wasm
+  Content-Type: application/wasm
+/TriExodus.pck
+  Content-Type: application/octet-stream
